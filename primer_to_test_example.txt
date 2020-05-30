@@ -1,0 +1,24 @@
+Sat May 30, 2020 13:22 CEST
+plasmid.gb
+From 255 to 489 (5'-->3') 
+
+Find Primers
+Primer (5'-->3')                                      length %GC Tm(°C) self/other(max adj 3')
+269 AAAGGCCATCCGTCAGG 285                               17    58   55    6 4 2 /----- 
+269 AAAGGCCATCCGTCAG 284                                16    56   52    6 4 1 /----- 
+270 AAGGCCATCCGTCAG 284                                 15    60   51    6 4 1 /----- 
+276 ATCCGTCAGGATGGCCTTC 294                             19    57   58    8 4 2 /----- 
+276 ATCCGTCAGGATGGC 290                                 15    60   51    8 4 1 /----- 
+283 AGGATGGCCTTCTGCTTAGTTTGATG 308                      26    46   61    8 4 1 /----- 
+283 AGGATGGCCTTCTGCTTAGTTTG 305                         23    47   59    8 4 1 /----- 
+283 AGGATGGCCTTCTGCTTAG 301                             19    52   55    8 4 2 /----- 
+283 AGGATGGCCTTCTGC 297                                 15    60   51    8 4 2 /----- 
+284 GGATGGCCTTCTGCTTAGTTTGATG 308                       25    48   60    8 4 1 /----- 
+284 GGATGGCCTTCTGCTTAGTTTG 305                          22    50   57    8 4 1 /----- 
+284 GGATGGCCTTCTGCTTAG 301                              18    55   53    8 4 2 /----- 
+285 GATGGCCTTCTGCTTAGTTTGATG 308                        24    45   58    8 4 1 /----- 
+285 GATGGCCTTCTGCTTAGTTTG 305                           21    47   55    8 4 1 /----- 
+285 GATGGCCTTCTGCTTAG 301                               17    52   50    8 4 2 /----- 
+286 ATGGCCTTCTGCTTAGTTTGATG 308                         23    43   57    8 4 1 /----- 
+286 ATGGCCTTCTGCTTAGTTTG 305                            20    45   54    6 4 1 /----- 
+287 TGGCCTTCTGCTTAGTTTGATG 308                          22    45   57    8 4 1 /----- 
