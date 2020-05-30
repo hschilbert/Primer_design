@@ -13,9 +13,9 @@ makeblastdb \
 
 2.) start primer search:
 
-python find_primers_at.py \
+python find_primers.py \
 --ape_file primer_to_test.txt \
 --out output/
 
 NOTE: all .py scripts needs to be in the working directory. 
-For an example of primer_to_test.txt see above: This file can be generated via ApE - A plasmid editor (https://jorgensen.biology.utah.edu/wayned/ape/) by selecting the sequence on which primers should be designed on and then klick on Tools --> Find Primers (set your parameters) --> OK --> save full list as .txt file and use it as input for find_primers_at.py.
+For an example of primer_to_test.txt see above: This file can be generated via ApE - A plasmid editor (https://jorgensen.biology.utah.edu/wayned/ape/) by selecting the sequence on which primers should be designed on and then klick on Tools --> Find Primers (set your parameters) --> OK --> save full list as .txt file and use it as input for find_primers.py.
