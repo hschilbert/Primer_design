@@ -7,9 +7,9 @@ How to use:
 1.) build blast nucleotide database (e.g. for the A. thaliana reference genome):
 
 makeblastdb \
--in TAIR10.fa \
--out AtTAIR10_nt_db \
--dbtype nucl
+--in TAIR10.fa \
+--out AtTAIR10_nt_db \
+--dbtype nucl
 
 2.) start primer search:
 
